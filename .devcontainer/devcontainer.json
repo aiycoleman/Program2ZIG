@@ -1,5 +1,5 @@
 {
-  "image": "stagex/zig:latest",
+  "image": "chainguard/zig:latest",
   "features": {
   }
 }
