@@ -1,0 +1,5 @@
+{
+  "image": "esolang/zig:latest",
+  "features": {
+  }
+}
