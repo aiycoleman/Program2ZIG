@@ -1,5 +1,5 @@
 {
-  "image": "kassany/ziglang:latest",
+  "image": "esolang/zig:latest",
   "features": {
   }
 }
