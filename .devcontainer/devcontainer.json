@@ -1,5 +1,5 @@
 {
-  "image": "chainguard/zig:latest",
+  "image": "esolang/zig:latest",
   "features": {
   }
 }
